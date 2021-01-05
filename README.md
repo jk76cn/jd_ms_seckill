@@ -2,7 +2,7 @@
 
 各种福利薅羊毛可加群
 
-有需要赚钱的加群吧
+有需要可以加wx或qq群
 
 <table id='wechat_group1'>
  <tr><td id='group_8'>
