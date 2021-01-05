@@ -7,7 +7,7 @@
 <table id='wechat_group1'>
  <tr><td id='group_8'>
             <img src="https://github.com/joucksHua/jd_ms_jd_seckill/raw/main/wx.png">
-            <h4 align='center'>群</h4>
+            <h4 align='center'>wx群</h4>
         </td>
     </tr>
  <tr><td id='group_8'>
